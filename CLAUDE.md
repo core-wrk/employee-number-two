@@ -23,9 +23,9 @@ Work through projects in numbered order. Each project depends on outputs from th
 05-outbound-sales      Prospect, qualify, and reach out to early customers.
 06-product-management  Define your product requirements and roadmap.
 07-product-development Translate requirements into engineering specs. QA and UX review.
-08-beta-and-testing    Recruit beta users, collect feedback, iterate.
-09-pricing-packaging   Develop and validate your pricing model.
-10-legal-formation     Entity selection, domain, banking, and early legal awareness.
+08-beta-and-user-testing    Recruit beta users, collect feedback, iterate.
+09-pricing-and-packaging    Develop and validate your pricing model.
+10-legal-and-company-formation  Entity selection, domain, banking, and early legal awareness.
 11-fundraising-prep    Identify investors, recruit advisors, build your pitch.
 12-financial-modeling  Model revenue, costs, unit economics, and runway.
 ```
@@ -126,9 +126,9 @@ employee-number-two/
     ├── 05-outbound-sales/
     ├── 06-product-management/
     ├── 07-product-development/
-    ├── 08-beta-and-testing/
-    ├── 09-pricing-packaging/
-    ├── 10-legal-formation/
+    ├── 08-beta-and-user-testing/
+    ├── 09-pricing-and-packaging/
+    ├── 10-legal-and-company-formation/
     ├── 11-fundraising-prep/
     └── 12-financial-modeling/
 ```
