@@ -20,6 +20,9 @@ Complete Project 02 (brand and marketing).
 | `color-system-builder` | Define color palette with psychology and accessibility |
 | `typography-selector` | Recommend typefaces and typographic hierarchy |
 | `logo-direction-advisor` | Produce a structured logo creative brief |
+| `brand-identity-synthesizer` | Terminal synthesis step — consolidates the three primitives into the design system, brand kit, and global brand identity |
+
+The first three skills can be run in any order; each detects sibling outputs at runtime and adapts. `brand-identity-synthesizer` runs last and requires all three upstream outputs to exist before it will proceed.
 
 ## Outputs
 
@@ -29,7 +32,9 @@ Complete Project 02 (brand and marketing).
 - `design-system.md`
 - `brand-kit-instructions.md`
 
-**Note:** Claude Code cannot render or generate images. This project produces structured design briefs, hex codes, font recommendations, and creative direction documents that you take to a design tool (Canva, Figma) or a designer.
+**Note:** Claude Code cannot render or generate images. This project produces structured design briefs, hex codes, font recommendations, and creative direction documents that you take to any design tool or hand to a designer.
+
+**The brand kit is platform-agnostic and machine-consumable.** Both `brand-kit-instructions.md` and the global `brand-identity.md` contain a canonical Design Tokens JSON block that any downstream skill or tool can parse without ambiguity — including future skills like `/canvas-design` and the content/product workflows in Projects 04 and 07. The kit is not scoped to Canva, Figma, or any single tool.
 
 ---
 
