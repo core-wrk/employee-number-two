@@ -1,2 +1,3 @@
 projects/*/outputs/
 global/context/
+.DS_Store

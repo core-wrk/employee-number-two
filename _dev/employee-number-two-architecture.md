@@ -221,23 +221,27 @@ This is the right place to save things like: notes from testing a skill with a r
 ├── outputs/
 │   ├── positioning-statement.md
 │   ├── messaging-framework.md
-│   ├── brand-voice-guide.md
-│   └── marketing-channel-strategy.md
+│   └── brand-voice-guide.md
 └── .claude/
     └── skills/
         ├── positioning-strategist/
         │   ├── SKILL.md
         │   └── references/
-        │       └── positioning-frameworks.md
+        │       ├── positioning-frameworks.md
+        │       └── positioning-quality-rubric.md
         ├── messaging-architect/
         │   ├── SKILL.md
         │   └── references/
-        │       └── messaging-hierarchy-template.md
+        │       ├── messaging-hierarchy-template.md
+        │       └── proof-point-types.md
         └── brand-voice-developer/
             ├── SKILL.md
             └── references/
-                └── voice-attribute-examples.md
+                ├── voice-attribute-examples.md
+                └── brand-voice-template.md
 ```
+
+**Scope change (2026-04-07):** `marketing-channel-strategy.md` was originally scoped to Project 02 but moved to Project 04 (Inbound Marketing). Channel selection is more naturally co-located with channel execution, where the founder is already deciding cadence, format, and content. Project 02 retains positioning, messaging, and voice; Project 04 now owns both the strategy *and* the execution of channel decisions, reading `brand-voice.md` and `icp.md` to make the call.
 
 **Agents / Skills:**
 
@@ -291,13 +295,14 @@ This is the right place to save things like: notes from testing a skill with a r
 
 **CLAUDE.md loads:** `brand-voice.md`, `brand-identity.md`, `icp.md`, `startup-hypothesis.md`
 
-**Outputs:** Channel-specific content drafts saved within this project. Waitlist management context saved to `outputs/waitlist-tracker.md`.
+**Outputs:** Channel-specific content drafts saved within this project. Waitlist management context saved to `outputs/waitlist-tracker.md`. Channel strategy (which channels to invest in, in what order, with what cadence) is also produced here, in `outputs/marketing-channel-strategy.md` — moved from Project 02 on 2026-04-07 so that channel selection sits alongside channel execution rather than being decoupled from it. Channel strategy should be produced before content production begins, reading `global/context/brand-voice.md` and `global/context/icp.md` (especially the "Where to Find Them" section) to make grounded prioritization decisions.
 
 **Project structure:**
 ```
 04-inbound-marketing/
 ├── CLAUDE.md
 ├── outputs/
+│   ├── marketing-channel-strategy.md
 │   ├── content-calendar.md
 │   ├── waitlist-tracker.md
 │   ├── blog/
