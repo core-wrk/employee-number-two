@@ -1,6 +1,10 @@
 {
   "permissions": {
-    "allow": ["Bash(*)"],
+    "allow": [
+      "Bash(*)",
+      "Edit(**/.claude/skills/**/SKILL.md)",
+      "Write(**/.claude/skills/**/SKILL.md)"
+    ],
     "deny": [
       "Bash(rm -rf *)",
       "Bash(git push *)",
