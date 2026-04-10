@@ -12,7 +12,7 @@ The frameworks for doing this right exist. What's been missing is a practical, w
 
 Employee Number Two is that implementation.
 
-This repo was created by [Dr. Andrew O'Donnell, PhD](https://www.corewrk.com), founder of [Core Wrk, LLC](https://www.corewrk.com), out of the work done helping early-stage founders get structured, move faster, and avoid the most common and costly mistakes. The methodology behind it is drawn from proven startup frameworks and refined through direct consulting work with founders across industries.
+This repo was created by [Dr. Andrew O'Donnell, PhD](https://www.linkedin.com/in/andrewodonnell/), founder of [Core Wrk, LLC](https://www.corewrk.com), out of the work done helping early-stage founders get structured, move faster, and avoid the most common and costly mistakes. The methodology behind it is drawn from proven startup frameworks and refined through direct consulting work with founders across industries.
 
 The goal of making it publicly available is simple: give every founder access to the same structured thinking that used to require a consultant in the room.
 
@@ -69,7 +69,7 @@ All outputs are plain markdown or structured text files. Human-readable, version
 
 - [Claude Code](https://claude.ai/code) installed and authenticated
 - A GitHub account
-- Comfort with a terminal and a text editor
+- Comfort with a terminal and a text editor (or your favorite IDE)
 - A startup idea, or at least a problem you want to explore
 
 No other subscriptions or tools are required. When a third-party tool would meaningfully amplify what an agent can do, the repo will tell you about it — but nothing is required to get started.
@@ -80,7 +80,7 @@ No other subscriptions or tools are required. When a third-party tool would mean
 
 ### 1. Fork this repo
 
-Click **Fork** at the top right of this page. This creates your own copy of the repo under your GitHub account.
+Click **Fork** at the top right of the repo page. This creates your own copy of the repo under your GitHub account.
 
 > **Use a private fork.** The outputs you generate here — your ICP, brand strategy, prospect lists, financial model — are proprietary to your startup. Make your fork private in GitHub Settings before you start working. The repo's `.gitignore` is configured to exclude output and context files as a safety net, but a private fork is the right practice.
 
