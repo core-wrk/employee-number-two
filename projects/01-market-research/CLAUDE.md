@@ -37,13 +37,13 @@ All skills are conversational. They ask you one question at a time, shape follow
 | `icp-builder` | Synthesize research findings into a v1 Ideal Customer Profile |
 | `naming-validator` | Check candidate product names for domain, trademark, and handle conflicts |
 | `hypothesis-refiner` | Walk assumption-by-assumption through what the research validated or invalidated, and refine the hypothesis |
-| `early-legal-checker` | Surface IP, NDA, and data-privacy flags relevant at this stage (awareness, not legal advice) |
+| `early-legal-checker` | Surface IP, NDA, and data-privacy flags relevant at this stage (awareness, not legal advice). Complemented by a separate formation-era `early-legal-checker` in Project 10, which covers 83(b), trademark, co-founder agreements, and compliance calendar — run this one here, that one at formation. |
 
 ## Recommended Flow
 
 **Start here:**
 1. Run `research-planner` first. It is the cheapest way to find out whether your hypothesis is concrete enough to research or whether it needs more thinking first.
-2. Run `early-legal-checker` once, early. It is a 10-minute check that can save you from unpleasant surprises later — especially around IP assignment if you are currently employed elsewhere.
+2. Run `early-legal-checker` once, early. It is a 10-minute check that can save you from unpleasant surprises later — especially around IP assignment if you are currently employed elsewhere. This version is scoped to pre-research flags (IP from current employment, NDA considerations for design partners, data-privacy basics for waitlist collection). A second, formation-era `early-legal-checker` lives in Project 10 and covers 83(b), trademark, co-founder agreements, and compliance calendar — do not run that one now.
 
 **Gather signal (run in any order):**
 3. `reddit-researcher`
