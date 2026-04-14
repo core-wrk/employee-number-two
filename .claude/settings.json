@@ -2,18 +2,16 @@
   "permissions": {
     "allow": [
       "Bash(*)",
-      "Edit(**/.claude/skills/**/SKILL.md)",
-      "Write(**/.claude/skills/**/SKILL.md)",
-      "Edit(projects/**/README.md)",
-      "Write(projects/**/README.md)",
-      "Edit(**/.claude/skills/**/README.md)",
-      "Write(**/.claude/skills/**/README.md)",
-      "Edit(**/.claude/skills/**/references/**)",
-      "Write(**/.claude/skills/**/references/**)",
-      "Edit(projects/**/outputs/**)",
-      "Write(projects/**/outputs/**)",
-      "Edit(global/context/**)",
-      "Write(global/context/**)"
+      "Edit(//Users/andrewodonnell/GitRepos/employee-number-two/**/SKILL.md)",
+      "Write(//Users/andrewodonnell/GitRepos/employee-number-two/**/SKILL.md)",
+      "Edit(//Users/andrewodonnell/GitRepos/employee-number-two/**/README.md)",
+      "Write(//Users/andrewodonnell/GitRepos/employee-number-two/**/README.md)",
+      "Edit(//Users/andrewodonnell/GitRepos/employee-number-two/**/references/**)",
+      "Write(//Users/andrewodonnell/GitRepos/employee-number-two/**/references/**)",
+      "Edit(//Users/andrewodonnell/GitRepos/employee-number-two/projects/**/outputs/**)",
+      "Write(//Users/andrewodonnell/GitRepos/employee-number-two/projects/**/outputs/**)",
+      "Edit(//Users/andrewodonnell/GitRepos/employee-number-two/global/context/**)",
+      "Write(//Users/andrewodonnell/GitRepos/employee-number-two/global/context/**)"
     ],
     "deny": [
       "Bash(rm -rf *)",
