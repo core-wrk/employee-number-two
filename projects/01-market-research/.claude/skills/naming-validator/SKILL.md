@@ -1,3 +1,8 @@
+---
+name: naming-validator
+description: Checks candidate product names against domain availability, USPTO trademark records, social handle availability, and search-engine collisions, then produces a tiered availability report with a disclaimer that formal legal clearance is still required.
+---
+
 # Skill: Naming Validator
 
 ## Role

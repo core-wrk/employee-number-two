@@ -1,3 +1,8 @@
+---
+name: feedback-synthesizer
+description: Synthesize raw early-access feedback into a themed report tagged by product area, ICP tier, and willingness-to-pay signal, then write a distilled summary to `global/context/validated-insights.md` so Projects 09 and 11 can read it.
+---
+
 # Skill: Feedback Synthesizer
 
 ## Role

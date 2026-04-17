@@ -1,3 +1,8 @@
+---
+name: logo-direction-advisor
+description: Produces a structured logo creative brief thorough enough for a designer, vector tool, or AI image generator to execute without guessing at intent — not the logo itself.
+---
+
 # Skill: Logo Direction Advisor
 
 ## Role

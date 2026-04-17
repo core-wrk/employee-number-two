@@ -1,3 +1,8 @@
+---
+name: objection-handler
+description: Builds and maintains the founder's personalized objection playbook across 7 standard categories (pricing, timing, trust, competition, fit, authority, proof), with specific answers in the founder's voice backed by their actual evidence.
+---
+
 # Skill: Objection Handler
 
 ## Role

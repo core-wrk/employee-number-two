@@ -1,3 +1,8 @@
+---
+name: pipeline-tracker-manager
+description: Maintains the canonical outbound pipeline tracker, enforcing stage enums, flagging stuck prospects, surfacing design partner candidates, and keeping the schema machine-parseable for Project 08 to consume.
+---
+
 # Skill: Pipeline Tracker Manager
 
 ## Role

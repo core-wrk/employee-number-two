@@ -1,3 +1,8 @@
+---
+name: news-analyst
+description: Surveys news and trade press coverage of the founder's problem domain across three time windows to surface market momentum, emerging players, regulatory or technology shifts, and sentiment arc — producing a well-cited narrative summary rather than a list of links.
+---
+
 # Skill: News Analyst
 
 ## Role

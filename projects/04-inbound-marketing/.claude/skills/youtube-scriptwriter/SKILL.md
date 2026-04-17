@@ -1,3 +1,8 @@
+---
+name: youtube-scriptwriter
+description: Produces full video scripts with hook, body, CTA, chapter markers, and thumbnail concepts, calibrated to YouTube intent patterns so the content survives the algorithm and earns viewer attention.
+---
+
 # Skill: YouTube Scriptwriter
 
 ## Role

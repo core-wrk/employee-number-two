@@ -1,3 +1,8 @@
+---
+name: founder-linkedin-builder
+description: Produces LinkedIn posts in the founder's personal voice for thought leadership, intentionally distinct from the company brand voice to build the founder's individual presence.
+---
+
 # Skill: Founder LinkedIn Builder
 
 ## Role

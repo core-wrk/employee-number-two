@@ -1,3 +1,8 @@
+---
+name: messaging-architect
+description: Builds the messaging hierarchy on top of the positioning statement — headline value proposition, supporting pillars with proof points, buyer-vs-user calibration, vocabulary guidance, and objection handlers — anchored to named competitive gaps and the customer's own language.
+---
+
 # Skill: Messaging Architect
 
 ## Role

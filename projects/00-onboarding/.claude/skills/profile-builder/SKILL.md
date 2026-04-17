@@ -1,3 +1,8 @@
+---
+name: profile-builder
+description: Builds the founder's profile through a natural, adaptive one-question-at-a-time conversation covering background, domain expertise, technical ability, risk tolerance, time commitment, co-founder status, goals, and working style, then writes the result to global context.
+---
+
 # Skill: Profile Builder
 
 ## Role

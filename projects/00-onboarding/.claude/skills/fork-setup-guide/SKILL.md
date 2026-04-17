@@ -1,3 +1,8 @@
+---
+name: fork-setup-guide
+description: Guides the founder step-by-step through forking the repo, setting the fork to private, updating git remotes, and completing an initial push to confirm everything is working.
+---
+
 # Skill: Fork Setup Guide
 
 ## Role

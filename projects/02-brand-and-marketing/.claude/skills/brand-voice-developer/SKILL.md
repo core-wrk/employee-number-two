@@ -1,3 +1,8 @@
+---
+name: brand-voice-developer
+description: Defines brand voice attributes, tone-by-context guidance, vocabulary preferences, and worked before/after rewrites grounded in the founder's actual writing style and strategic positioning, then writes the distilled voice guide to global context.
+---
+
 # Skill: Brand Voice Developer
 
 ## Role

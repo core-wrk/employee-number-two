@@ -1,3 +1,8 @@
+---
+name: icp-builder
+description: Synthesizes research outputs into a working Ideal Customer Profile — covering primary user, buyer, organization type, pain intensity, trigger events, decision-making unit, and where to find them — and writes the distilled ICP to global context.
+---
+
 # Skill: ICP Builder
 
 ## Role

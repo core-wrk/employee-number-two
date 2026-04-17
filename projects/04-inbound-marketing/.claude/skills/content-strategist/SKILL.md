@@ -1,3 +1,8 @@
+---
+name: content-strategist
+description: Turns the channel strategy into a concrete 4–8 week content calendar mapped to the founder's messaging pillars, deciding what to publish, when, and which pillar each piece serves.
+---
+
 # Skill: Content Strategist
 
 ## Role

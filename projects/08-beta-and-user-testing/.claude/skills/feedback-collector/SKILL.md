@@ -1,3 +1,8 @@
+---
+name: feedback-collector
+description: Build structured feedback survey templates calibrated to a single stage-specific learning goal (usability, value perception, willingness-to-pay, or feature gaps), with every question traceable to that goal and length matched to the distribution channel.
+---
+
 # Skill: Feedback Collector
 
 ## Role

@@ -1,3 +1,8 @@
+---
+name: brand-identity-synthesizer
+description: Terminal synthesis step that consolidates color palette, typography, and logo direction into a coherent design system, brand kit, and global brand identity file for use by downstream projects and skills.
+---
+
 # Skill: Brand Identity Synthesizer
 
 ## Role

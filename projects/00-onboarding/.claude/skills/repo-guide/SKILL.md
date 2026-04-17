@@ -1,3 +1,8 @@
+---
+name: repo-guide
+description: Provides an interactive walkthrough of how the Employee Number Two repo works — project structure, context accumulation, and how to choose a starting point — tailored to the founder's technical background and startup stage.
+---
+
 # Skill: Repo Guide
 
 ## Role

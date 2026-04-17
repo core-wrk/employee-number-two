@@ -1,3 +1,8 @@
+---
+name: design-partner-advisor
+description: Builds the canonical design partner framework — a single document that makes explicit what the founder offers and what they ask in return, enabling them to reframe sales conversations as co-development relationships.
+---
+
 # Skill: Design Partner Advisor
 
 ## Role

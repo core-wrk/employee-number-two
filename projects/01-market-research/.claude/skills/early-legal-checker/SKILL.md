@@ -1,3 +1,8 @@
+---
+name: early-legal-checker
+description: Surfaces early-stage legal flags across three categories — IP assignment risk from current employment, NDA and confidentiality considerations for design-partner conversations, and data-privacy obligations — and produces a report of questions for a qualified attorney.
+---
+
 # Skill: Early Legal Checker
 
 ## Role

@@ -1,3 +1,8 @@
+---
+name: reddit-researcher
+description: Finds and evaluates Reddit threads that express the problem the founder is solving, rates each finding by signal strength, and synthesizes recurring patterns into a structured research report grounded in direct user quotes.
+---
+
 # Skill: Reddit Researcher
 
 ## Role

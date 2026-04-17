@@ -1,3 +1,8 @@
+---
+name: reddit-engager
+description: Drafts authentic, value-first replies to specific Reddit threads the founder brings to the conversation, earning presence through genuine substance rather than self-promotion.
+---
+
 # Skill: Reddit Engager
 
 ## Role

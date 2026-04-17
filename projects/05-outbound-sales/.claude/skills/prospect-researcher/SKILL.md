@@ -1,3 +1,8 @@
+---
+name: prospect-researcher
+description: Builds the canonical prospect list via targeted web search, tiering every prospect A/B/C/D against the ICP and capturing firmographic and contact data that downstream skills require to do real work.
+---
+
 # Skill: Prospect Researcher
 
 ## Role

@@ -1,3 +1,8 @@
+---
+name: pre-call-brief-builder
+description: Produces structured pre-call briefs for any prospect who has agreed to a meeting, covering company snapshot, inferred pain, likely objections, discovery questions, talking points, and a definition of call success.
+---
+
 # Skill: Pre-Call Brief Builder
 
 ## Role

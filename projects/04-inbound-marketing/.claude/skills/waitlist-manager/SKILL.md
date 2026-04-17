@@ -1,3 +1,8 @@
+---
+name: waitlist-manager
+description: Qualifies new waitlist signups against the ICP, tags them by tier, and maintains the canonical waitlist tracker in a machine-parseable format that Project 08 reads for beta recruitment.
+---
+
 # Skill: Waitlist Manager
 
 ## Role

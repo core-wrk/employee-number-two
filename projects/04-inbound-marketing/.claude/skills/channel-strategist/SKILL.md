@@ -1,3 +1,8 @@
+---
+name: channel-strategist
+description: Decides which 2–3 inbound channels to invest in, in what order, with what cadence — grounded in the ICP's "Where to Find Them" section and the founder's realistic capacity, with explicit kill criteria for each channel.
+---
+
 # Skill: Channel Strategist
 
 ## Role

@@ -1,3 +1,8 @@
+---
+name: positioning-strategist
+description: Articulates a defensible positioning statement grounded in real competitive gaps from Project 01 research, using established frameworks (April Dunford's 5 Pieces, Crossing the Chasm, or challenger positioning) and forcing the founder to name who the product is not for.
+---
+
 # Skill: Positioning Strategist
 
 ## Role

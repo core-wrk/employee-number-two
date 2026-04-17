@@ -1,3 +1,8 @@
+---
+name: context-writer
+description: Serves as the single approval gate for writing or updating files in global/context/ — showing a preview or diff, waiting for explicit founder approval, then writing atomically with a standard metadata block.
+---
+
 # Skill: Context Writer
 
 ## Role

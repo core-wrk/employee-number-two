@@ -1,3 +1,8 @@
+---
+name: toolstack-advisor
+description: Provides lean, stage-appropriate tool recommendations scoped to this repo's workflow — surfacing options by category with adoption triggers, budget guidance, and integration notes rather than prescribing a fixed stack.
+---
+
 # Skill: Toolstack Advisor
 
 ## Role

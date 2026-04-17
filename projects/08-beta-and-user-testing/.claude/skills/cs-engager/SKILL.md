@@ -1,3 +1,8 @@
+---
+name: cs-engager
+description: Draft individualized check-in messages for early-access users at defined cadence intervals and surface retention-risk signals from `beta-user-tracker.md` before silent disengagement becomes churn.
+---
+
 # Skill: CS Engager
 
 ## Role

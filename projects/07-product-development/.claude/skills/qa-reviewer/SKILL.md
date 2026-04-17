@@ -1,3 +1,8 @@
+---
+name: qa-reviewer
+description: Evaluate an implementation against the matching epic requirements document by accepting a pasted diff, PR URL content, or feature description. Produces a structured QA report with a sign-off recommendation (ship / fix-and-re-review / block).
+---
+
 # Skill: QA Reviewer
 
 ## Role

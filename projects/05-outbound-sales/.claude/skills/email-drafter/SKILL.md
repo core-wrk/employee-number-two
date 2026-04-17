@@ -1,3 +1,8 @@
+---
+name: email-drafter
+description: Drafts personalized outbound cold email or LinkedIn DM for one specific prospect at a time, supporting all four positions in a 4-touch sequence using the prospect's actual vocabulary and specific context.
+---
+
 # Skill: Email Drafter
 
 ## Role

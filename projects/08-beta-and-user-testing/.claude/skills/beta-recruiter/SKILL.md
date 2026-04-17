@@ -1,3 +1,8 @@
+---
+name: beta-recruiter
+description: Pull Tier A users from the waitlist, draft personalized early-access invitations anchored to each candidate's specific signup context, and maintain `beta-user-tracker.md` as the canonical cohort record.
+---
+
 # Skill: Beta Recruiter
 
 ## Role

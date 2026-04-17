@@ -1,3 +1,8 @@
+---
+name: competitor-mapper
+description: Builds a structured competitor matrix covering direct competitors, indirect competitors, and workarounds — including pricing, user-reported gaps, and recent activity — then writes the condensed competitive landscape to global context.
+---
+
 # Skill: Competitor Mapper
 
 ## Role

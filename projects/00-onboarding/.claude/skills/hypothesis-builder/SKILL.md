@@ -1,3 +1,8 @@
+---
+name: hypothesis-builder
+description: Develops the founder's startup hypothesis through structured, conversational dialogue — covering problem statement, proposed solution, key assumptions, target customer, current alternatives, and why now — and writes the result to global context.
+---
+
 # Skill: Hypothesis Builder
 
 ## Role

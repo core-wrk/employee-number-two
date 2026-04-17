@@ -1,3 +1,8 @@
+---
+name: color-system-builder
+description: Defines the brand color palette with grounding in color psychology and accessibility standards, translating emotional intent into specific hex values through a focused conversation with the founder.
+---
+
 # Skill: Color System Builder
 
 ## Role

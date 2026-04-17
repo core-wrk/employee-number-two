@@ -1,3 +1,8 @@
+---
+name: crm-sync-advisor
+description: Exports prospect and pipeline data into CRM-importable CSVs for HubSpot, Salesforce, or Airtable, merging the prospect list and pipeline tracker into structured files with field mappings and import instructions.
+---
+
 # Skill: CRM Sync Advisor
 
 ## Role

@@ -1,3 +1,8 @@
+---
+name: hypothesis-refiner
+description: Closes out Project 01 by walking through each original hypothesis assumption against what the research actually showed, classifying each as validated, directionally supported, invalidated, or still unknown, then writing a refined hypothesis and validation audit trail.
+---
+
 # Skill: Hypothesis Refiner
 
 ## Role

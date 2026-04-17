@@ -1,3 +1,8 @@
+---
+name: journey-assessor
+description: Assesses where a returning founder is in their startup journey, recommends which project to start with or skip to, and helps backfill any global context files that skipped projects would have produced.
+---
+
 # Skill: Journey Assessor
 
 ## Role

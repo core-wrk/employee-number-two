@@ -1,3 +1,8 @@
+---
+name: technical-report-writer
+description: Produces long-form, data-backed industry research reports (e.g. "State of X") that justify a waitlist gate and seed months of derivative content — only run when the founder has genuine original data to publish.
+---
+
 # Skill: Technical Report Writer
 
 ## Role

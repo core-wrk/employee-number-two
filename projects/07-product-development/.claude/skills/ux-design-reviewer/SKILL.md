@@ -1,3 +1,8 @@
+---
+name: ux-design-reviewer
+description: Evaluate a screen, flow, or screenshot against UX heuristics (Nielsen's 10 plus mobile/responsive and accessibility extensions) and `brand-identity.md`. Produces a UX review report with specific, actionable fixes ordered by severity; soft-degrades without brand identity.
+---
+
 # Skill: UX Design Reviewer
 
 ## Role

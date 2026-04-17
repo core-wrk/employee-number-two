@@ -1,3 +1,8 @@
+---
+name: epic-requirements-builder
+description: Take one epic from `epic-list.md` and drill it into a full requirements document covering functional requirements, non-functional requirements, acceptance criteria, edge cases, dependencies, and out-of-scope. Branches on implementer mode (coding agent vs. human engineer).
+---
+
 # Skill: Epic Requirements Builder
 
 ## Role

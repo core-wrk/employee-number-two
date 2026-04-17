@@ -1,3 +1,8 @@
+---
+name: tech-stack-advisor
+description: Conversationally work through frontend, backend, database, auth, hosting, observability, and AI provider decisions to recommend the smallest stack that clears the next three months of the roadmap. Produces `tech-stack.md`, the canonical stack reference read by every downstream skill.
+---
+
 # Skill: Tech Stack Advisor
 
 ## Role

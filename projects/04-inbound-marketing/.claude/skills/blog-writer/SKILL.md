@@ -1,3 +1,8 @@
+---
+name: blog-writer
+description: Drafts long-form blog posts in the brand voice, grounded in messaging pillars and ICP vocabulary, producing pieces a real reader in the ICP would want to read end-to-end.
+---
+
 # Skill: Blog Writer
 
 ## Role

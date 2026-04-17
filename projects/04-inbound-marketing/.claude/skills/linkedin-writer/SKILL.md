@@ -1,3 +1,8 @@
+---
+name: linkedin-writer
+description: Produces LinkedIn posts in the company brand voice across multiple formats (text, document, poll, repost), translating messaging pillars into content that earns audience engagement on LinkedIn.
+---
+
 # Skill: LinkedIn Writer
 
 ## Role

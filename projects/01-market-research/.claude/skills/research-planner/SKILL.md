@@ -1,3 +1,8 @@
+---
+name: research-planner
+description: Turns the founder's startup hypothesis into a concrete, testable research plan by walking through each assumption to define confirming and refuting evidence, then recommends which Project 01 research skills to run and in what order.
+---
+
 # Skill: Research Planner
 
 ## Role

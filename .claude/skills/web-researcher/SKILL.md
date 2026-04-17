@@ -1,3 +1,8 @@
+---
+name: web-researcher
+description: Serves as the shared research engine for project skills that need current information from the web — translating fuzzy research questions into targeted searches, evaluating source credibility, and returning a structured, fully-cited synthesis with explicit gaps noted.
+---
+
 # Skill: Web Researcher
 
 ## Role

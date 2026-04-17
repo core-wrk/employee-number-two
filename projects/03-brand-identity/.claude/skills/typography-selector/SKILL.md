@@ -1,3 +1,8 @@
+---
+name: typography-selector
+description: Recommends typefaces and builds a typographic hierarchy by translating brand voice into typographic character, producing a practical type scale the founder can apply across web, slides, print, and product UI.
+---
+
 # Skill: Typography Selector
 
 ## Role
