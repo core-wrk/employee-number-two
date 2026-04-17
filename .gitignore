@@ -1,3 +1,5 @@
 projects/*/outputs/
 global/context/
 .DS_Store
+smoke-test-report.md
+projects/_smoke
